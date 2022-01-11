@@ -1,0 +1,33 @@
+---
+title: "Consigne générale de l'expérience"
+output: html_document
+---
+
+# Presentation de l'expérience
+
+Bonjour, merci à tous d'êtres venu. 
+Avant de commencer l'expérience nous allons vous demander de nous confier vos effets personnel.
+Pour la durée de l'expérience nous vous demandons de vos confier vos téléphone portable ainsi que vos sacs.
+Ils seront conserver dans la pièces et vous seront rendu dès que vous quitterais la salle.
+Votre précense vous à déja permis de gagner 2€.
+Je vais maintenant vous expliquer comment l'expérience vas se dérouler et comment vous pouvez gagner plus d'argent.
+
+L'expérience d'aujourd'hui va consister à effectué des taches de décompte.
+Sur l'écran en face de vous, vous verez de temps en temps apparaitre un tableau de 9 case.
+Chaque case contenant un __0__ ou un __1__.
+Votre tâches consiste à compter le nombre de 1 et d'indiquer se nombre dans la case prévut à cette effet.
+Vous aurez à chaque fois 15 seconde pour répondre.
+Si vous ne réponder pas dans le temps impartie ou si le compte et faux, une mauvaise réponse sera comptabilisé.
+Si plus de 30% de vos réponse sont de mauvaise réponse, vous gagnerez seulement 3€ en plus de vos 2€ initiaux.
+
+Si vous faîtes moins de 30% d'erreur votre gains dépendra du temps que vous aurez passés aux tâches de décomptes.
+Aujourd'hui vous allez effectué 3 tâches de décompte d'un maximum de 30 minutes chacunes.
+les 3 tâches peuvent vous permettre de gagner jusqu'à 10€.
+On vous expliquera au début de chaque tâche de qu'elle façon vous serait rémunérer.
+
+Les différentes tâches prendront fin à des moments différents pour les participants.
+Nous vous demandons de ne pas quitter la pièce, de ne pas parler ou distraire les autres participants de quelque façon que ce soit.
+Et d'attendre que l'on vous confirme le début de la tâche suivante ou la fin de l'expérience.
+
+Si vous avez des question maintenant ou durant le déroulement de l'expérience ou si vous rencontrez un problème, merci de levez la main afin que nous venions vous pour régler le problème.
+

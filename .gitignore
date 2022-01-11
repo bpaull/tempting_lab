@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+output/data/*
+output/log/*
+output/questionnaire/*
+
+tableau_des_payments.csv

@@ -1,0 +1,17 @@
+web <- div(id = "web",
+           br(),
+           br(),
+           br(),
+           br(),
+           fluidRow(column(4, 
+                           span("Aucune informations ne sera récoltée sur votre comportement sur internet.",
+                                style="color:blue"),
+                           offset = 4)),
+           br(),
+           br(),
+           fluidRow(column(4, 
+                           h1("Pour accéder à internet cliqué ", 
+                              a("ici", href = "http://google.com", target = "_blank"),
+                              "."),
+                           offset = 4))
+)

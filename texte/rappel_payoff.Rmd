@@ -1,0 +1,21 @@
+---
+title: ""
+output: html_document
+---
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(knitr)
+library(kableExtra)
+
+payoff_interac <- tibble::data_frame("< 15"     = c(0,   1,   3.5),
+                                     "[15, 30[" = c(0.5, 2,   3.6),
+                                     "30"       = c(3,   3.4, 4))
+rownames(payoff_interac) <- c("< 15", "[15, 30[", "30")
+
+kable(payoff_interac)%>%
+  kable_styling(bootstrap_options = c("striped", "bordered"), full_width = F, font_size = 20) %>%
+  row_spec(0, bold = T) %>% 
+  column_spec(1, bold = T) %>% 
+  save_kable(file = "~/Bureau/last/interface/0_visualise/texte//rappel_payoff.html", self_contained = TRUE)
+```
+
